@@ -1,0 +1,7 @@
+AI USE.
+- The summary report and Ideas themselves are completely AI free and where thought of by me iteratively through doing multiple experimentations.
+- The detailed report I used claudes MS WORD plugin to finish it quicker, but the use was kept to a minimum. 
+- AI was used in coding especially in DB creation and management and also CLuster setup.
+- Debugging was also done using claude.code since doing it on my own takes a lot of time. (the ideas in the code aswell regarding implementation and design are also my own) and the prompts where and the architecture -though perfected using AI- was created by me in my previous projects and the main harnesses (RPS) are imported from previous projects. 
+- The parsing and trunc errors and fallbacks plus guards were where I heavily relied on claudes input and free generation as my own exception handling was failing time and again.  
+- Database.py and Read.py are also from claude code. the queries run for data extraction and the kind of data I wanted represented in the dbs are my own. 
